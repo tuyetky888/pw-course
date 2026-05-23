@@ -10,6 +10,7 @@ Trong bài số 2 này, chúng ta đã được làm quen với hai nội dung c
 - Tổng quan về Git/Git Hub, người sáng lập
 - Các câu lệnh Git
 - Thực hành tạo file và sử dụng các câu lệnh Git cơ bản: git add, git commit -m "message"
+- Khai báo tên và email người dùng trong repo và global bằng câu lệnh: git config --global user. name hoặc user.email
 - Git convention: chore (sửa các lỗi nhỏ, lỗi chính tả), feat (thêm các tính năng mới), fix (sửa các lỗi nhỏ)
 ---
 
