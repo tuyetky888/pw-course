@@ -24,3 +24,4 @@ Trong bài số 2 này, chúng ta đã được làm quen với hai nội dung c
 - Phép so sánh
 - Vòng lặp
 
+***
