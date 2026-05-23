@@ -1,9 +1,8 @@
 Đáp án cho bài tập số 2 phần 2.2
 
-Ví dụ mình tạo 1 folder là baitap-02
-Sau đó mình tạo 2 file là rose1.txt và rose 2.txt
-lúc này rose1.txt và rose2.txt vẫn đang ở vùng local
-Đầu tiên, mình chạy lệnh git init để khởi tạo repo git mới cho folder này
-Sau lệnh git init, rose1.txt và rose2.txt sẽ được chuyển sang vùng working directory
-Sao đó mình dùng git add . để thêm 2 file này vào staging area 
-Sau đó mình thêm lệnh git commit -m "bai tạp buoi 2 phan 2.2" để lưu lại nội dung để chuẩn bị chuyển file lên Git Hub repository bằng lệnh git push origin main
+a. 3 file: file1, file2 và file3 đều nằm ở vùng local
+b. 3 file: file1, file2 và file3 được chuyển đến vùng working directory
+c. 3 file: file1, file2 và file3 vẫn ở vùng working directory
+d. file1 được chuyển đến vùng staging area, file2 và file 3 vẫn ở vùng working directory
+e. file1 được chuyển đến vùng repository, file2 và file 3 vẫn ở vùng working directory
+f. file1 được chuyển đến vùng repository, file2 và file 3 vẫn ở vùng working directory
