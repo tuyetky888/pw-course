@@ -1,0 +1,9 @@
+Đáp án cho bài tập số 2 phần 2.1
+
+Giải thích các câu lệnh
+
+- git init: Khởi tạo git, đây là câu lệnh làm 1 lần duy nhất cho 1 repository, không cần làm lại, đẩy file từ local lên working directory
+- git add <file_name>: Câu lệnh này dùng để thêm file trong dấu ngoặc <> và những thay đổi của nó vào staging area
+- git add .: Câu lệnh này dùng để thêm tất cả các file mới tạo và tất cả thay đổi vào staging area
+- git commit -m "message": Câu lệnh này dùng để ghi nhận những thay đổi và ghi kèm cho nó 1 cái nội dung để khi đẩy lên reposiotory Github người đọc sẽ hiểu là nó thay đổi code ở chỗ nào và mục đích là gì.
+
