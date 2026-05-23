@@ -3,6 +3,6 @@
 a. 3 file: file1, file2 và file3 đều nằm ở vùng local
 b. 3 file: file1, file2 và file3 được chuyển đến vùng working directory
 c. 3 file: file1, file2 và file3 vẫn ở vùng working directory
-d. file1 được chuyển đến vùng staging area, file2 và file 3 vẫn ở vùng working directory
-e. file1 được chuyển đến vùng repository, file2 và file 3 vẫn ở vùng working directory
-f. file1 được chuyển đến vùng repository, file2 và file 3 vẫn ở vùng working directory
+d. file1 được chuyển đến vùng staging area, file2 và file3 vẫn ở vùng working directory
+e. file1 được chuyển đến vùng repository, file2 và file3 vẫn ở vùng working directory
+f. file1 được chuyển đến vùng repository, file2 và file3 vẫn ở vùng working directory
