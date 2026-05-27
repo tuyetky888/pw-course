@@ -1,0 +1,6 @@
+Giải thích các câu lệnh
+
+git commit --amend: Sửa nội dung commit trực tiếp trên terminal
+git commit --amend -m"<mesage>": Sửa nội dung commit bằng nội dung mới trong ngoặc ""
+git restore --staged <file>: Từ Staging quay lại Working directory, chỉ áp dụng cho file trong ngoặc
+git reset HEAD~1: Từ Resposity quay lại Working directory theo 1 commit
