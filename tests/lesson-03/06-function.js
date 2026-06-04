@@ -10,9 +10,9 @@
 // 2. Viết hàm findMin
 
     function findMin(a,b,c) {
-        if (a < b && a < c){
+        if (a <= b && a <= c){
             return a;
-        }else if (b < a && b < c){
+        }else if (b <= a && b <= c){
             return b;
         }else {
             return c;
@@ -20,7 +20,7 @@
     }
 
     console.log(findMin(4,8,3));
-    console.log(findMin(6,2,9));
+    console.log(findMin(6,6,9));
 
 // 3. Viết hàm getTopStudents
 
@@ -46,11 +46,9 @@
 
 // 4. Viết hàm calculateInterest
 
-    let total = 0;
-
     function calculateInterest(principal, rate, years) {
-        total = principal + principal*rate*years;
+        let total = principal + principal*rate*years;
         return total;
     }
 
-    console.log(calculateInterest(500, 0.06, 3));
+    console.log(calculateInterest(600, 0.06, 3));
